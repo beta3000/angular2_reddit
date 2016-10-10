@@ -1,4 +1,9 @@
 # Angular2Reddit
+Simple Reddit hecho en Angular 2
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beta3000/angular2_reddit/master/src/assets/images/re11.JPG" width="350"/>
+</p>
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
